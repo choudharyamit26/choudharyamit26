@@ -1,16 +1,9 @@
 ### Hi 👋, I'm Amit Kumar Choudhary
-
-<!--
-**choudharyamit26/choudharyamit26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Mobulous Technologies Pvt Ltd
-- 🌱 I’ve 2+ years of experience as a backend developer
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 🔭 I’m currently working at Mobulous Technologies Pvt Ltd
+ - 🌱 I’ve 2+ years of experience as a backend developer using Python3, Django, Django Rest Framework
+ -  💬 Ask me about Python3, Django and Django Rest Framework related stuff
+# Skill set and Tools:
+  - Python
+  - Django
+  - Django Rest Framework
+  - Relational Databases
