@@ -30,16 +30,6 @@ I'm Amit — a backend developer with 6+ years of experience building scalable A
 
 ---
 
-## Tools & icons
-(You can keep or update the icons you prefer — example icons previously used in this repo:)
-
-- Python ![Python](https://user-images.githubusercontent.com/45892851/133791249-1985bec7-2de9-4422-a1be-374e2082ff1c.png)
-- Django ![Django](https://user-images.githubusercontent.com/45892851/133791765-9aa1a5f8-a38d-463b-8895-a8dd4433d3df.jpeg)
-- Django REST Framework ![DRF](https://user-images.githubusercontent.com/45892851/133791992-cb6c0284-2e9a-4ecc-a9f5-f029b12588fd.png)
-- Databases ![DB](https://user-images.githubusercontent.com/45892851/133792807-f430c32b-125d-4999-8c63-b2688cfbaaa9.jpeg)
-
----
-
 ## Experience
 - 6+ years building backend applications and APIs.
 - Currently: Backend Developer at Nagarro.
